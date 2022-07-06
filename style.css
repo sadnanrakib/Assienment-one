@@ -140,9 +140,15 @@ margin: 10px;
 .container-inp-bu{
     text-align: center;
     background-color:bisque;
-    padding: 100px 100px;
+    padding: 50px 50px;
     width: 50%;
     margin: 15px auto;
+}
+.color-add{
+    background-color: tomato;
+    border: 1px solid tomato;
+    margin-left: -5px;
+    padding: 2px 0;
 }
 
 footer{
